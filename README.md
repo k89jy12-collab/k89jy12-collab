@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-* 🛡️ DBADBA
+* 🛡️ DBA
 * 📱 Built fintech mobile apps using React Native
 * 🧩 Interested in system design & scalable architectures
 * 🤖 Exploring AI (QA systems, ML)
