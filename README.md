@@ -6,6 +6,8 @@
 
 ## 🚀 About Me
 
+* <img width="280" height="314" alt="image" src="https://github.com/user-attachments/assets/f9bddaa7-c477-4ded-aaea-0c7b94ce879f" />
+Past: Stack exchange 1K record->Phylosophy, Software Engineering, Stack overflow, Computer science education
 * 🛡️ DBA
 * 📱 Built fintech mobile apps using React Native
 * 🧩 Interested in system design & scalable architectures
