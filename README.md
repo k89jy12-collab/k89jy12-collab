@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kim
 
-[치과의사](https://chatgpt.com/s/t_69d91a0470dc8191b3f8de66195e7d9b)
+* Technical Sales Engineer, DBA, Full Stack Web developer
 
 💻 Software Developer to aproach most efficient coding style 
 
