@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Kim
 
-* Technical Sales Engineer, DBA, Full Stack Web developer
+Ability
+
+
+Having Experiencd in various feild of industry
+
+* Technical Sales Engineer, DBA, Full Stack Web developer, Software Architect
 
 💻 Software Developer to aproach most efficient coding style 
 
