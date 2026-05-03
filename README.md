@@ -53,4 +53,3 @@ Past: Stack exchange 1K record->Phylosophy, Software Engineering, Stack overflow
 
 ## Feel free to connect
 
-* Email: k89jy12@gmail.com
